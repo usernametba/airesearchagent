@@ -1,0 +1,14 @@
+#Skip Database files
+*.db
+#Skip pdf files
+*.pdf
+#skip Sqlite files
+*.sqlite
+# Enter foldername directly and it will be ignored
+*.env
+#to ignore files for API & SSH keys keys 
+*.key
+#.sass-cache #to ignore Sass config files
+notes.txt
+# Ignore your notes text files
+keys
